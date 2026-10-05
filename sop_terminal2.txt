@@ -1,0 +1,37 @@
+FICTIONAL TRAINING DOCUMENT - NOT A REAL SOP
+RAMPUR INTERNATIONAL AIRPORT (FICTIONAL) - TERMINAL 2
+STANDARD OPERATING PROCEDURE: SECURITY RESPONSE (VERSION 3.2)
+
+SECTION 1: UNATTENDED BAG
+1.1 Any bag left unattended for more than 5 minutes is treated as suspicious.
+1.2 The first responder must keep a cordon of 50 metres and must not touch, move or open the bag.
+1.3 The first responder informs the Terminal Control Room on radio channel 4 using the code word "BLUE FALCON".
+1.4 The Bomb Detection and Disposal Squad (BDDS) is called by the Control Room only.
+1.5 Passenger movement near the bag is diverted through Gate 2B.
+
+SECTION 2: TERMINAL EVACUATION
+2.1 Evacuation is ordered only by the Duty Officer of Terminal 2 or a higher officer.
+2.2 The code word for full evacuation of Terminal 2 is "GREEN MONSOON".
+2.3 Assembly point for Terminal 2 is Car Park C, near the fuel station.
+2.4 Each gate in-charge must report a headcount to the Control Room within 15 minutes.
+
+SECTION 3: ACCESS CONTROL
+3.1 Airside entry requires a valid Airport Entry Permit (AEP) and a matching biometric check.
+3.2 After 3 failed biometric attempts, the card is blocked and the holder is escorted to the Pass Section.
+3.3 Temporary passes are valid for a maximum of 24 hours.
+3.4 Contractor staff must be escorted at all times in Zone A (critical area).
+
+SECTION 4: SUSPICIOUS CALLS AND MESSAGES
+4.1 No access code, password or deployment detail is ever shared over phone, video call, SMS or messaging app.
+4.2 Any request for such information, even in a known voice or face, must be verified by calling back on the official number listed in the unit directory.
+4.3 Suspicious calls are reported to the Control Room and the unit IT cell within 1 hour.
+
+SECTION 5: USE OF AI TOOLS
+5.1 Only AI tools approved by the unit IT cell may be used for official work.
+5.2 No duty roster, layout, personal data or classified information may be typed into public AI tools.
+5.3 All AI-generated text must be checked by the officer before it enters an official record.
+
+SECTION 6: SHIFT HANDOVER
+6.1 Handover takes place at 0600, 1400 and 2200 hours.
+6.2 The outgoing shift records all open incidents in the handover register.
+6.3 The incoming shift in-charge signs the register within 10 minutes of taking over.

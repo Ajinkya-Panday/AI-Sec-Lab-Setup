@@ -1,0 +1,5 @@
+FICTIONAL TRAINING TEXT - all numbers below are invented.
+Incident note: Passenger Ramesh Kumar (Aadhaar 9999 8888 7777, mobile 9876500001) reported loss of a bag at Gate 2B at 14:20.
+Constable on duty: CISF1012. Contact supervisor at 9876500002.
+Bag contained a laptop and PAN card ABCDE1234F. Passenger email: ramesh.k@example.com
+Please draft a polite acknowledgement letter to the passenger.

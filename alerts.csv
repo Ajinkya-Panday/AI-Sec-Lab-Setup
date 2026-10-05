@@ -1,0 +1,16 @@
+alert_id,time,source,device,description,tool_severity
+A01,08:02,Login,WS-ADMIN-02,5 failed logins then success for user U007 from unknown IP,Medium
+A02,08:05,EDR,WS-STORE-11,Word document launched hidden PowerShell window,High
+A03,08:06,EDR,WS-STORE-11,Hundreds of files renamed with .locked extension in 1 minute,Critical
+A04,08:10,Email,MAIL-GW,Email blocked: Aadhaar KYC update link to 40 staff,Low
+A05,08:12,Network,FW-01,Printer contacted firmware update server,Info
+A06,08:20,UEBA,FILESRV-01,"User U007 downloaded 1850 files, normal is 25",High
+A07,08:21,Network,FW-01,Large upload 4 GB from FILESRV-01 to unknown cloud storage,Critical
+A08,08:30,Access,GATE-G3,Badge CISF1015 denied 3 times then granted,Medium
+A09,08:31,Antivirus,WS-HR-04,Definition update completed,Info
+A10,08:40,Login,VPN,User U018 login from two countries within 10 minutes,High
+A11,08:45,EDR,WS-STORE-11,Device isolated automatically by EDR,Info
+A12,08:50,Email,MAIL-GW,User reported suspicious voice-note asking to share gate code,Medium
+A13,09:00,Backup,BKP-01,Nightly backup completed successfully,Info
+A14,09:05,Network,FW-01,Port scan from internal host WS-CANTEEN-01,Medium
+A15,09:10,Login,WS-ADMIN-02,Service account used interactively at 09:10,Medium
